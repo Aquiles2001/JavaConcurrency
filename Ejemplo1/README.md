@@ -1,4 +1,4 @@
-# Ejemplo de mal manejo de memoria compartida
+# Ejemplo 1: mal manejo de memoria compartida
 
 El siguiente programa consta de 4 clases
 
