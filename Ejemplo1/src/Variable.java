@@ -1,4 +1,4 @@
-package Ejemplo1;
+package Ejemplo1.src;
 
 /**
  * Variable class.

@@ -1,4 +1,4 @@
-package Ejemplo1;
+package Ejemplo1.src;
 
 public class Process2 implements Runnable {
 
