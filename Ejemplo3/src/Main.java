@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:Ejemplo4/src/Main.java
-package Ejemplo4.src;
-========
 package Ejemplo3.src;
->>>>>>>> Ejemplo3:Ejemplo3/src/Main.java
 
 public class Main {
     
