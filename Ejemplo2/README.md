@@ -1,6 +1,6 @@
 # Ejemplo 2: Productor consumidor
 
-En el siguiente programa es el clasico problema productor consumidor aplicado a la conurrencia y el cual sigue el siguiente esquema:
+En el siguiente código es el clasico problema productor consumidor aplicado a la conurrencia y el cual sigue el siguiente esquema:
 
 ![producer-consumer](img/producer-consumer.png)
 
