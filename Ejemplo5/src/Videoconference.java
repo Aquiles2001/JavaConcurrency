@@ -35,6 +35,7 @@ public class Videoconference implements Runnable{
     @Override
     public void run() {
         System.out.printf("Videoconference: Initialization: %d participants.\n", controller.getCount());
+        
         try {
             controller.await();
             System.out.printf("Videoconference: All the participants have come\n");

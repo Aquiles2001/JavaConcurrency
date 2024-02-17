@@ -15,6 +15,7 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             Participant p = new Participant(conference, "Participant " + i);
             Thread t = new Thread(p);
+            
             t.start();
         }
     }

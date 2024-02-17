@@ -29,6 +29,7 @@ public class Participant implements Runnable{
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+        
         conference.arrive(name);
     }
 }
