@@ -1,6 +1,6 @@
 # Ejemplo 3: Semaphores
 
-El siguiente programa simula una cola de impresión. Diez hilos deben imprimir documentos en la
+El siguiente código simula una cola de impresión. Diez hilos deben imprimir documentos en la
 misma impresora (la impresora es el recurso compartido). Para imprimir un documento, la impresora
 demora un cierto tiempo, durante el cual el hilo que está imprimiendo tendrá control sobre esta. Se
 mostrará un mensaje indicando que un documento de un hilo n se está imprimiendo y cuánto tiempo
