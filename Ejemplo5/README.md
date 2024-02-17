@@ -7,6 +7,7 @@ diante el constructor un CountDownLatch llamado controller con el valor diez, in
 realizarse diez operaciones para que su contador llegue a cero. El código del método run() de con-
 ference no se ejecutará hasta que se realicen las diez operaciones ya que contiene la instrucción
 controller.await();
+
 Los participantes por su parte ejecutarán conference.arrive() luego de haber dormido durante un
 tiempo aleatorio. En el método arrive() de la clase Videoconference se ejecuta controller.countDown()
 de manera que los hilos asociados a los participantes irán decrementando el contador del Count-
