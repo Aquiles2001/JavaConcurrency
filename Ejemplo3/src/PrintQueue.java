@@ -1,4 +1,4 @@
-package Ejemplo3;
+package Ejemplo3.src;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;

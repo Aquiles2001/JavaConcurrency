@@ -1,4 +1,4 @@
-package Ejemplo3;
+package Ejemplo3.src;
 
 public class Main {
     
