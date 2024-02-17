@@ -1,6 +1,6 @@
 # Ejemplo de mal manejo de memoria compartida
 
-El siguiente programa consta de 4 clases
+El siguiente código consta de 4 clases
 
 - Variable
 - Process1
