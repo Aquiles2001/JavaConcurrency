@@ -1,4 +1,4 @@
-package Ejemplo2;
+package Ejemplo2.src;
 
 public class Buffer {
     
